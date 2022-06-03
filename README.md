@@ -1,8 +1,12 @@
 # Leetcode-Solutions
 Contribute your solved Leetcode solutions 
 
-## EASY PROBLEMS
+## Find Problems By -->
+1. <a href="#tag1">Language Wise</a>
+2. <a href="#tag2">Topic Wise</a>
 
-## MEDIUM PROBLEMS
+<h2 id="tag1">Language Wise</h2>
+1. Python
 
-## HARD PROBLEMS
+
+<h2 id="tag2">Topic Wise </h2>
